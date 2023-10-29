@@ -65,7 +65,7 @@ hr {
   border: 2px solid;
 }
 
-a:active { color:#d62828; }
+a:link { color:#d62828; }
 a:hover { color:#f77f00; }
 
 footer {
